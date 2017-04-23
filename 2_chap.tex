@@ -1,0 +1,29 @@
+\chapter{Background}
+
+\section{Types of Image Spam}
+Image Spam is an email spam technique developed to evade content based detection techniques. Image spam techiniques have evolved today. We can loosely classify them into 3 generations ~\cite{7}. 
+\begin{itemize}
+	\item First Generation Image Spam: The onset of image spam began with simple text embedded inside images. This was a successful effort to evade content based detection schemes. Combining Optical Character Recognition technique with content based filtering served as a good classifier for this class of image spam.
+	\item Second Generation Image Spam: In the second generation of image spam, background images and noise were introduced in the image. This was an attempt make OCR filtering difficult. 
+	\item Third Generation Image Spam: This class of image spam introduced relevant images along with the text. This made OCR based detection difficult.  
+\end{itemize}
+
+\section{Spam Detection Techniques}
+\begin{itemize}
+	\item Content Based Filters: Content based detection schemes can be used to filter text based spam emails. They rely on the content/text inside the spam emails. String classifiers are built using keywords extracted from spam emails, headers, payload, etc. Machine Learning techniques have been used exhaustively to build these type of classifiers~\cite{1}.
+	\item Non-content based Filters: Non-content based detection schemes are used to detect more advanced forms email spams like image spam. These detection schemes heavily rely on other properties of the emails like image properties. 
+\end{itemize}
+
+
+\section{Related Work}
+Since the onset of spam detection, machine learning techniques have been used exhaustively. Image spam has further widened this research area. A combination of Image Processing and Machine Learning techniques have resulted in strong image spam detection schemes. 
+
+\par Kumaresan et al.~\cite{9} used combination of 10 metadata features and 3 texture features to construct a feature vector for each image. Using SVM with particle swarm optimization, they achieved an accuracy of 90\% on dataset~\cite{10}.
+\par Annapurna et al.~\cite{7} used 21 features to generate the feature vector. After conducting various experiments, with feature selection and feature elimination based on the weights associated with each feature, they constructed a strong SVM classifier. The experiments were conducted on 2 datasets~\cite{3, 10} and the accuracy achieved with each dataset was 97\% and 99\%. More features in comparision to~\cite{9} were used in this experiment like edges, noise, etc. Addition of these features helped improve the accuracy by 9\% in dataset~\cite{10}.
+\par Soranamageswari et al.~\cite{12} proposed a similar architecture with Neural Networks. Color and image composition feature are extracted and fed to BPNN. They achieved an accuracy of 92.82\% on the Spam Archive dataset~\cite{13}.
+
+\par Chowdhury et al.~\cite{14} extracted metadata features and visual features and fed it to BPNN. They presented a comparison of 3 machine learning algorithms; Naive Bayes, SVM and BPNN on the same dataset, with the same set of features. The results showed that despite of increased complexity, neural networks achieved greater accuracy than the other two models.
+
+\par From the results of the two papers, we can see that neural networks outperform traditional Machine Learning techniques like SVM and Naive Bayes. It can be attributed to how neural networks 'learn' from the data presented to it. 
+
+

@@ -1,0 +1,127 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\addcustomcontentsline
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{1}
+\BIBentryALTinterwordspacing
+S.~Dhanaraj and V.~Karthikeyani, ``A study on e-mail image spam filtering
+  techniques,'' in \emph{2013 International Conference on Pattern Recognition,
+  Informatics and Mobile Engineering}, Feb 2013, pp. 49--55. [Online].
+  Available:
+  \url{http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6496446&tag=1}
+\BIBentrySTDinterwordspacing
+
+\bibitem{2}
+\BIBentryALTinterwordspacing
+C.-C. Lai and M.-C. Tsai, ``An empirical performance comparison of machine
+  learning methods for spam e-mail categorization,'' in \emph{Fourth
+  International Conference on Hybrid Intelligent Systems, 2004. HIS'04.}\hskip
+  1em plus 0.5em minus 0.4em\relax IEEE, 2004, pp. 44--48. [Online]. Available:
+  \url{http://ieeexplore.ieee.org.libaccess.sjlibrary.org/stamp/stamp.jsp?arnumber=1409979}
+\BIBentrySTDinterwordspacing
+
+\bibitem{3}
+\BIBentryALTinterwordspacing
+Y.~Gao, M.~Yang, X.~Zhao, B.~Pardo, Y.~Wu, T.~N. Pappas, and A.~Choudhary,
+  ``Image spam hunter,'' in \emph{2008 IEEE International Conference on
+  Acoustics, Speech and Signal Processing}.\hskip 1em plus 0.5em minus
+  0.4em\relax IEEE, 2008, pp. 1765--1768. [Online]. Available:
+  \url{http://www.cs.northwestern.edu/~yga751/ML/ISH.htm}
+\BIBentrySTDinterwordspacing
+
+\bibitem{4}
+\BIBentryALTinterwordspacing
+L.~Whitney, ``Report: Spam now 90 percent of all e-mail,'' \emph{CNET News},
+  vol.~26, 2009. [Online]. Available:
+  \url{https://www.cnet.com/news/report-spam-now-90-percent-of-all-e-mail/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{5}
+\BIBentryALTinterwordspacing
+S.~Assassin, ``The apache spamassasin project,'' Aug 2005. [Online]. Available:
+  \url{http:/spamassasin. apache. orgs}
+\BIBentrySTDinterwordspacing
+
+\bibitem{7}
+\BIBentryALTinterwordspacing
+A.~Annadatha and M.~Stamp, ``Image spam analysis and detection,'' \emph{Journal
+  of Computer Virology and Hacking Techniques}, vol.~23, pp. 1--14, 2016.
+  [Online]. Available: \url{http://dx.doi.org/10.1007/s11416-016-0287-x}
+\BIBentrySTDinterwordspacing
+
+\bibitem{9}
+\BIBentryALTinterwordspacing
+T.~Kumaresan, S.~Sanjushree, K.~Suhasini, and C.~Palanisamy, ``Image spam
+  filtering using support vector machine and particle swarm optimization.''
+  [Online]. Available:
+  \url{http://research.ijcaonline.org/nciprc2015/number1/nciprc8006.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{10}
+\BIBentryALTinterwordspacing
+M.~Dredze, R.~Gevaryahu, and A.~Elias-Bachrach, ``Learning fast classifiers for
+  image spam.'' in \emph{CEAS}, 2007. [Online]. Available:
+  \url{https://www.cs.jhu.edu/~mdredze/datasets/image_spam/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{12}
+\BIBentryALTinterwordspacing
+M.~Soranamageswari and C.~Meena, ``Statistical feature extraction for
+  classification of image spam using artificial neural networks,'' in
+  \emph{2010 Second International Conference on Machine Learning and
+  Computing}, Feb 2010, pp. 101--105. [Online]. Available:
+  \url{http://ieeexplore.ieee.org/document/5460761/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{13}
+\BIBentryALTinterwordspacing
+G.~Fumera, I.~Pillai, and F.~Roli, ``Spam filtering based on the analysis of
+  text information embedded into images,'' \emph{Journal of Machine Learning
+  Research}, vol.~7, pp. 2699--2720, Dec 2006. [Online]. Available:
+  \url{http://www.jmlr.org/papers/v7/fumera06a.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{14}
+\BIBentryALTinterwordspacing
+M.~Chowdhury, J.~Gao, and M.~Chowdhury, \emph{Image Spam Classification Using
+  Neural Network}.\hskip 1em plus 0.5em minus 0.4em\relax Australia: Springer
+  International Publishing, 2015, pp. 622--632. [Online]. Available:
+  \url{http://dx.doi.org/10.1007/978-3-319-28865-9_41}
+\BIBentrySTDinterwordspacing
+
+\bibitem{6}
+\BIBentryALTinterwordspacing
+M.~Nixon, \emph{Feature extraction and image processing}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Academic Press, 2008. [Online]. Available:
+  \url{http://vlm1.uta.edu/~patjang/cvpr2012/Books/feature-extraction-image-processing-second-edition.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Stamp_ML}
+M.~Stamp, ``{\it Machine Learning with Applications in Information Security},''
+  unpublished manuscript.
+
+\bibitem{8}
+\BIBentryALTinterwordspacing
+C.~Cortes and V.~Vapnik, ``Support-vector networks,'' \emph{Machine Learning},
+  vol.~20, no.~3, pp. 273--297, 1995. [Online]. Available:
+  \url{http://dx.doi.org/10.1007/BF00994018}
+\BIBentrySTDinterwordspacing
+
+\end{thebibliography}

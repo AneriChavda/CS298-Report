@@ -1,0 +1,68 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 1}{\ignorespaces Proposed Architecture\relax }}{2}{figure.caption.6}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 2}{\ignorespaces RGB Channels of Color Histogram\relax }}{8}{figure.caption.7}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 3}{\ignorespaces HSV Channels of HSV Histogram\relax }}{9}{figure.caption.8}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 4}{\ignorespaces Canny Edge\relax }}{10}{figure.caption.9}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 5}{\ignorespaces Separating Hyper-plane\relax }}{14}{figure.caption.11}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 6}{\ignorespaces Confusion Matrix\relax }}{17}{figure.caption.12}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 7}{\ignorespaces ROC Curve\relax }}{18}{figure.caption.13}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 8}{\ignorespaces Test dataset example\relax }}{21}{figure.caption.15}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 9}{\ignorespaces Feature value comparison scatter plots\relax }}{21}{figure.caption.16}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 10}{\ignorespaces SVM Detection Model\relax }}{23}{figure.caption.17}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 11}{\ignorespaces AUC for individual features\relax }}{26}{figure.caption.18}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 12}{\ignorespaces Dataset 1 - Linear Kernel\relax }}{27}{figure.caption.20}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 13}{\ignorespaces Dataset 1 - RBF Kernel\relax }}{27}{figure.caption.21}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 14}{\ignorespaces Dataset 1 - Polynomial Kernel\relax }}{27}{figure.caption.22}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 15}{\ignorespaces Dataset 2 - Linear Kernel\relax }}{28}{figure.caption.24}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 16}{\ignorespaces Dataset 2 - RBF Kernel\relax }}{28}{figure.caption.25}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 17}{\ignorespaces Dataset 2 - Polynomial Kernel\relax }}{28}{figure.caption.26}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 18}{\ignorespaces Test Dataset - Linear Kernel\relax }}{29}{figure.caption.28}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 19}{\ignorespaces Test Dataset - RBF Kernel\relax }}{29}{figure.caption.29}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax 20}{\ignorespaces Test Dataset - Polynomial Kernel\relax }}{29}{figure.caption.30}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.21}{\ignorespaces Height\relax }}{33}{figure.caption.32}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.22}{\ignorespaces Width\relax }}{33}{figure.caption.32}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.23}{\ignorespaces Aspect Ratio\relax }}{33}{figure.caption.33}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.24}{\ignorespaces Compression Ratio\relax }}{33}{figure.caption.33}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.25}{\ignorespaces File Size\relax }}{34}{figure.caption.34}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.26}{\ignorespaces Image Area\relax }}{34}{figure.caption.34}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.27}{\ignorespaces Entropy of color histograms\relax }}{34}{figure.caption.35}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.28}{\ignorespaces Red channel mean\relax }}{34}{figure.caption.35}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.29}{\ignorespaces Green channel mean\relax }}{34}{figure.caption.36}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.30}{\ignorespaces Blue channel mean\relax }}{34}{figure.caption.36}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.31}{\ignorespaces Red channel Skew\relax }}{35}{figure.caption.37}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.32}{\ignorespaces Green channel skew\relax }}{35}{figure.caption.37}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.33}{\ignorespaces Blue channel Skew\relax }}{35}{figure.caption.38}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.34}{\ignorespaces Red channel Variance\relax }}{35}{figure.caption.38}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.35}{\ignorespaces Green channel Variance\relax }}{35}{figure.caption.39}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.36}{\ignorespaces Blue channel Variance\relax }}{35}{figure.caption.39}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.37}{\ignorespaces Red channel Kurtosis\relax }}{36}{figure.caption.40}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.38}{\ignorespaces Green channel Kurtosis\relax }}{36}{figure.caption.40}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.39}{\ignorespaces Blue channel Kurtosis\relax }}{36}{figure.caption.41}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.40}{\ignorespaces Entropy of HSV\relax }}{36}{figure.caption.41}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.41}{\ignorespaces Hue channel mean\relax }}{36}{figure.caption.42}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.42}{\ignorespaces Saturation channel mean\relax }}{36}{figure.caption.42}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.43}{\ignorespaces Intensity channel mean\relax }}{37}{figure.caption.43}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.44}{\ignorespaces Hue channel Skew\relax }}{37}{figure.caption.43}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.45}{\ignorespaces Saturation channel Skew\relax }}{37}{figure.caption.44}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.46}{\ignorespaces Intensity channel skew\relax }}{37}{figure.caption.44}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.47}{\ignorespaces Hue channel Variance\relax }}{37}{figure.caption.45}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.48}{\ignorespaces Saturation channel Variance\relax }}{37}{figure.caption.45}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.49}{\ignorespaces Intensity channel Variance\relax }}{38}{figure.caption.46}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.50}{\ignorespaces Hue channel Kurtosis\relax }}{38}{figure.caption.46}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.51}{\ignorespaces Saturation channel Kurtosis\relax }}{38}{figure.caption.47}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.52}{\ignorespaces Intensity channel Kurtosis\relax }}{38}{figure.caption.47}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.53}{\ignorespaces Entropy of Local Binary Pattern\relax }}{38}{figure.caption.48}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.54}{\ignorespaces Entropy of Histogram Of Gradients\relax }}{38}{figure.caption.48}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.55}{\ignorespaces Edge Count \relax }}{39}{figure.caption.49}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.56}{\ignorespaces Average Edge Length\relax }}{39}{figure.caption.49}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.57}{\ignorespaces Signal to Noise Ratio\relax }}{39}{figure.caption.50}
+\contentsline {figure}{\numberline {\global \advance \c@totalfigurecount 1\relax A.58}{\ignorespaces Entropy of Noise\relax }}{39}{figure.caption.50}

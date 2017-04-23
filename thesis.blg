@@ -1,0 +1,22 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: 1_chap.aux
+A level-1 auxiliary file: 2_chap.aux
+A level-1 auxiliary file: 3_chap.aux
+A level-1 auxiliary file: 4_chap.aux
+A level-1 auxiliary file: 5_chap.aux
+A level-1 auxiliary file: 6_chap.aux
+A level-1 auxiliary file: 7_chap.aux
+A level-1 auxiliary file: 8_chap.aux
+The style file: uriref.bst
+Database file #1: references.bib
+ 
+-- University of Rhode Island references, version 1.1 (2005/07/12),
+--  based on IEEEtran.bst version 1.11 (2003/04/02) by Michael Shell.
+--  http://www.ele.uri.edu/info/thesis/uritex/uriref.bst
+-- See the manual "IEEEtran_bst_HOWTO.pdf" for usage information,
+--  available at http://www.ele.uri.edu/info/thesis/IEEEtran_bst_HOWTO.pdf
+Warning--empty journal in 9
+Warning--empty year in 9
+
+Done.
+(There were 2 warnings)
